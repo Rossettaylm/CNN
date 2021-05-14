@@ -1,0 +1,2209 @@
+1. num_epochs = 100
+Epoch:  0
+The loss of train epoch:  2.1605026721954346
+Epoch:  1
+The loss of train epoch:  1.9436604976654053
+Epoch:  2
+The loss of train epoch:  1.6492844820022583
+Epoch:  3
+The loss of train epoch:  1.3381123542785645
+Epoch:  4
+The loss of train epoch:  1.0776028633117676
+Epoch:  5
+The loss of train epoch:  0.8847659826278687
+Epoch:  6
+The loss of train epoch:  0.7452353239059448
+Epoch:  7
+The loss of train epoch:  0.6425982713699341
+Epoch:  8
+The loss of train epoch:  0.5650470852851868
+Epoch:  9
+The loss of train epoch:  0.5048240423202515
+Epoch:  10
+The loss of train epoch:  0.45693057775497437
+Epoch:  11
+The loss of train epoch:  0.41806358098983765
+Epoch:  12
+The loss of train epoch:  0.38604435324668884
+Epoch:  13
+The loss of train epoch:  0.3592614531517029
+Epoch:  14
+The loss of train epoch:  0.3365911841392517
+Epoch:  15
+The loss of train epoch:  0.31723782420158386
+Epoch:  16
+The loss of train epoch:  0.3005611300468445
+Epoch:  17
+The loss of train epoch:  0.28608155250549316
+Epoch:  18
+The loss of train epoch:  0.27337974309921265
+Epoch:  19
+The loss of train epoch:  0.26220154762268066
+Epoch:  20
+The loss of train epoch:  0.25236231088638306
+Epoch:  21
+The loss of train epoch:  0.24360154569149017
+Epoch:  22
+The loss of train epoch:  0.23574915528297424
+Epoch:  23
+The loss of train epoch:  0.2286415994167328
+Epoch:  24
+The loss of train epoch:  0.22219641506671906
+Epoch:  25
+The loss of train epoch:  0.21633723378181458
+Epoch:  26
+The loss of train epoch:  0.21096111834049225
+Epoch:  27
+The loss of train epoch:  0.20593178272247314
+Epoch:  28
+The loss of train epoch:  0.20132297277450562
+Epoch:  29
+The loss of train epoch:  0.19704848527908325
+Epoch:  30
+The loss of train epoch:  0.19306302070617676
+Epoch:  31
+The loss of train epoch:  0.18933643400669098
+Epoch:  32
+The loss of train epoch:  0.18584562838077545
+Epoch:  33
+The loss of train epoch:  0.18257665634155273
+Epoch:  34
+The loss of train epoch:  0.17950116097927094
+Epoch:  35
+The loss of train epoch:  0.17658479511737823
+Epoch:  36
+The loss of train epoch:  0.17383944988250732
+Epoch:  37
+The loss of train epoch:  0.1712285578250885
+Epoch:  38
+The loss of train epoch:  0.16871574521064758
+Epoch:  39
+The loss of train epoch:  0.16632503271102905
+Epoch:  40
+The loss of train epoch:  0.16402322053909302
+Epoch:  41
+The loss of train epoch:  0.16180779039859772
+Epoch:  42
+The loss of train epoch:  0.15967124700546265
+Epoch:  43
+The loss of train epoch:  0.15763093531131744
+Epoch:  44
+The loss of train epoch:  0.15565522015094757
+Epoch:  45
+The loss of train epoch:  0.15375256538391113
+Epoch:  46
+The loss of train epoch:  0.15190330147743225
+Epoch:  47
+The loss of train epoch:  0.15011349320411682
+Epoch:  48
+The loss of train epoch:  0.1483938992023468
+Epoch:  49
+The loss of train epoch:  0.14672289788722992
+Epoch:  50
+The loss of train epoch:  0.1450798511505127
+Epoch:  51
+The loss of train epoch:  0.1434653252363205
+Epoch:  52
+The loss of train epoch:  0.14189134538173676
+Epoch:  53
+The loss of train epoch:  0.14033696055412292
+Epoch:  54
+The loss of train epoch:  0.13882865011692047
+Epoch:  55
+The loss of train epoch:  0.13734902441501617
+Epoch:  56
+The loss of train epoch:  0.1359100192785263
+Epoch:  57
+The loss of train epoch:  0.13451898097991943
+Epoch:  58
+The loss of train epoch:  0.1331399381160736
+Epoch:  59
+The loss of train epoch:  0.1318008005619049
+Epoch:  60
+The loss of train epoch:  0.13048873841762543
+Epoch:  61
+The loss of train epoch:  0.12920843064785004
+Epoch:  62
+The loss of train epoch:  0.1279083788394928
+Epoch:  63
+The loss of train epoch:  0.12661126255989075
+Epoch:  64
+The loss of train epoch:  0.12532703578472137
+Epoch:  65
+The loss of train epoch:  0.12406899780035019
+Epoch:  66
+The loss of train epoch:  0.12284152954816818
+Epoch:  67
+The loss of train epoch:  0.12164001911878586
+Epoch:  68
+The loss of train epoch:  0.12047753483057022
+Epoch:  69
+The loss of train epoch:  0.11935435980558395
+Epoch:  70
+The loss of train epoch:  0.11825965344905853
+Epoch:  71
+The loss of train epoch:  0.11720869690179825
+Epoch:  72
+The loss of train epoch:  0.11618521809577942
+Epoch:  73
+The loss of train epoch:  0.11521434038877487
+Epoch:  74
+The loss of train epoch:  0.11425083130598068
+Epoch:  75
+The loss of train epoch:  0.11333680152893066
+Epoch:  76
+The loss of train epoch:  0.11242929100990295
+Epoch:  77
+The loss of train epoch:  0.11151590943336487
+Epoch:  78
+The loss of train epoch:  0.11061056703329086
+Epoch:  79
+The loss of train epoch:  0.10972857475280762
+Epoch:  80
+The loss of train epoch:  0.10885085165500641
+Epoch:  81
+The loss of train epoch:  0.1079867035150528
+Epoch:  82
+The loss of train epoch:  0.10712728649377823
+Epoch:  83
+The loss of train epoch:  0.10627833008766174
+Epoch:  84
+The loss of train epoch:  0.10547565668821335
+Epoch:  85
+The loss of train epoch:  0.10473684221506119
+Epoch:  86
+The loss of train epoch:  0.10404326766729355
+Epoch:  87
+The loss of train epoch:  0.10335652530193329
+Epoch:  88
+The loss of train epoch:  0.10267152637243271
+Epoch:  89
+The loss of train epoch:  0.10198935121297836
+Epoch:  90
+The loss of train epoch:  0.10130070894956589
+Epoch:  91
+The loss of train epoch:  0.100642129778862
+Epoch:  92
+The loss of train epoch:  0.09997669607400894
+Epoch:  93
+The loss of train epoch:  0.09932608157396317
+Epoch:  94
+The loss of train epoch:  0.09867976605892181
+Epoch:  95
+The loss of train epoch:  0.09803216904401779
+Epoch:  96
+The loss of train epoch:  0.0974050909280777
+Epoch:  97
+The loss of train epoch:  0.0967651903629303
+Epoch:  98
+The loss of train epoch:  0.09615710377693176
+Epoch:  99
+The loss of train epoch:  0.09556587040424347
+The loss of test:  0.2535075843334198
+The accuracy: 92.840000%
+
+
+
+2. num_epochs = 1000
+Epoch:  0
+The loss of train epoch:  2.144256353378296
+Epoch:  1
+The loss of train epoch:  1.9128596782684326
+Epoch:  2
+The loss of train epoch:  1.6135259866714478
+Epoch:  3
+The loss of train epoch:  1.3158361911773682
+Epoch:  4
+The loss of train epoch:  1.0732454061508179
+Epoch:  5
+The loss of train epoch:  0.8917419910430908
+Epoch:  6
+The loss of train epoch:  0.7576169371604919
+Epoch:  7
+The loss of train epoch:  0.6568149328231812
+Epoch:  8
+The loss of train epoch:  0.5793148875236511
+Epoch:  9
+The loss of train epoch:  0.5183625817298889
+Epoch:  10
+The loss of train epoch:  0.4694242775440216
+Epoch:  11
+The loss of train epoch:  0.4295080304145813
+Epoch:  12
+The loss of train epoch:  0.3964194655418396
+Epoch:  13
+The loss of train epoch:  0.3686676621437073
+Epoch:  14
+The loss of train epoch:  0.34515926241874695
+Epoch:  15
+The loss of train epoch:  0.3250601291656494
+Epoch:  16
+The loss of train epoch:  0.30771544575691223
+Epoch:  17
+The loss of train epoch:  0.2926499545574188
+Epoch:  18
+The loss of train epoch:  0.27946197986602783
+Epoch:  19
+The loss of train epoch:  0.26787829399108887
+Epoch:  20
+The loss of train epoch:  0.25766754150390625
+Epoch:  21
+The loss of train epoch:  0.2485734224319458
+Epoch:  22
+The loss of train epoch:  0.2404101938009262
+Epoch:  23
+The loss of train epoch:  0.23304910957813263
+Epoch:  24
+The loss of train epoch:  0.22637446224689484
+Epoch:  25
+The loss of train epoch:  0.22028802335262299
+Epoch:  26
+The loss of train epoch:  0.21471697092056274
+Epoch:  27
+The loss of train epoch:  0.2096320539712906
+Epoch:  28
+The loss of train epoch:  0.2049410045146942
+Epoch:  29
+The loss of train epoch:  0.20058239996433258
+Epoch:  30
+The loss of train epoch:  0.19654390215873718
+Epoch:  31
+The loss of train epoch:  0.19278036057949066
+Epoch:  32
+The loss of train epoch:  0.18926630914211273
+Epoch:  33
+The loss of train epoch:  0.18598228693008423
+Epoch:  34
+The loss of train epoch:  0.18292400240898132
+Epoch:  35
+The loss of train epoch:  0.18004634976387024
+Epoch:  36
+The loss of train epoch:  0.17733070254325867
+Epoch:  37
+The loss of train epoch:  0.1747504472732544
+Epoch:  38
+The loss of train epoch:  0.17228563129901886
+Epoch:  39
+The loss of train epoch:  0.16993239521980286
+Epoch:  40
+The loss of train epoch:  0.16770240664482117
+Epoch:  41
+The loss of train epoch:  0.1655937135219574
+Epoch:  42
+The loss of train epoch:  0.1635744571685791
+Epoch:  43
+The loss of train epoch:  0.1616458147764206
+Epoch:  44
+The loss of train epoch:  0.15978269279003143
+Epoch:  45
+The loss of train epoch:  0.15798892080783844
+Epoch:  46
+The loss of train epoch:  0.15627065300941467
+Epoch:  47
+The loss of train epoch:  0.15460942685604095
+Epoch:  48
+The loss of train epoch:  0.15299558639526367
+Epoch:  49
+The loss of train epoch:  0.15143641829490662
+Epoch:  50
+The loss of train epoch:  0.14993980526924133
+Epoch:  51
+The loss of train epoch:  0.14854177832603455
+Epoch:  52
+The loss of train epoch:  0.147273987531662
+Epoch:  53
+The loss of train epoch:  0.14604595303535461
+Epoch:  54
+The loss of train epoch:  0.14484049379825592
+Epoch:  55
+The loss of train epoch:  0.14367249608039856
+Epoch:  56
+The loss of train epoch:  0.14254562556743622
+Epoch:  57
+The loss of train epoch:  0.14143876731395721
+Epoch:  58
+The loss of train epoch:  0.1403479129076004
+Epoch:  59
+The loss of train epoch:  0.13931016623973846
+Epoch:  60
+The loss of train epoch:  0.13828666508197784
+Epoch:  61
+The loss of train epoch:  0.13729000091552734
+Epoch:  62
+The loss of train epoch:  0.13632190227508545
+Epoch:  63
+The loss of train epoch:  0.13536447286605835
+Epoch:  64
+The loss of train epoch:  0.13442213833332062
+Epoch:  65
+The loss of train epoch:  0.13348430395126343
+Epoch:  66
+The loss of train epoch:  0.13252677023410797
+Epoch:  67
+The loss of train epoch:  0.1315675675868988
+Epoch:  68
+The loss of train epoch:  0.1306123584508896
+Epoch:  69
+The loss of train epoch:  0.12966889142990112
+Epoch:  70
+The loss of train epoch:  0.12875977158546448
+Epoch:  71
+The loss of train epoch:  0.12782655656337738
+Epoch:  72
+The loss of train epoch:  0.12681236863136292
+Epoch:  73
+The loss of train epoch:  0.12582474946975708
+Epoch:  74
+The loss of train epoch:  0.12485957145690918
+Epoch:  75
+The loss of train epoch:  0.1238950863480568
+Epoch:  76
+The loss of train epoch:  0.12296058982610703
+Epoch:  77
+The loss of train epoch:  0.12202639877796173
+Epoch:  78
+The loss of train epoch:  0.12108024954795837
+Epoch:  79
+The loss of train epoch:  0.12014739960432053
+Epoch:  80
+The loss of train epoch:  0.11920060217380524
+Epoch:  81
+The loss of train epoch:  0.11826290190219879
+Epoch:  82
+The loss of train epoch:  0.1173236072063446
+Epoch:  83
+The loss of train epoch:  0.11638747155666351
+Epoch:  84
+The loss of train epoch:  0.11547046154737473
+Epoch:  85
+The loss of train epoch:  0.11456578969955444
+Epoch:  86
+The loss of train epoch:  0.11368898302316666
+Epoch:  87
+The loss of train epoch:  0.11282940953969955
+Epoch:  88
+The loss of train epoch:  0.11195645481348038
+Epoch:  89
+The loss of train epoch:  0.11110042035579681
+Epoch:  90
+The loss of train epoch:  0.11025840789079666
+Epoch:  91
+The loss of train epoch:  0.10942143201828003
+Epoch:  92
+The loss of train epoch:  0.10859587043523788
+Epoch:  93
+The loss of train epoch:  0.10776526480913162
+Epoch:  94
+The loss of train epoch:  0.1069435104727745
+Epoch:  95
+The loss of train epoch:  0.1061280146241188
+Epoch:  96
+The loss of train epoch:  0.10533048957586288
+Epoch:  97
+The loss of train epoch:  0.10454583913087845
+Epoch:  98
+The loss of train epoch:  0.10377391427755356
+Epoch:  99
+The loss of train epoch:  0.1030181497335434
+Epoch:  100
+The loss of train epoch:  0.10225356370210648
+Epoch:  101
+The loss of train epoch:  0.1014738380908966
+Epoch:  102
+The loss of train epoch:  0.10068830847740173
+Epoch:  103
+The loss of train epoch:  0.09993402659893036
+Epoch:  104
+The loss of train epoch:  0.09918706864118576
+Epoch:  105
+The loss of train epoch:  0.09842748939990997
+Epoch:  106
+The loss of train epoch:  0.09768945723772049
+Epoch:  107
+The loss of train epoch:  0.09697357565164566
+Epoch:  108
+The loss of train epoch:  0.09627163410186768
+Epoch:  109
+The loss of train epoch:  0.09558313339948654
+Epoch:  110
+The loss of train epoch:  0.09489434957504272
+Epoch:  111
+The loss of train epoch:  0.09421311318874359
+Epoch:  112
+The loss of train epoch:  0.0935380607843399
+Epoch:  113
+The loss of train epoch:  0.09285633265972137
+Epoch:  114
+The loss of train epoch:  0.09217806905508041
+Epoch:  115
+The loss of train epoch:  0.0915098637342453
+Epoch:  116
+The loss of train epoch:  0.09086687117815018
+Epoch:  117
+The loss of train epoch:  0.09021017700433731
+Epoch:  118
+The loss of train epoch:  0.08953510969877243
+Epoch:  119
+The loss of train epoch:  0.08887064456939697
+Epoch:  120
+The loss of train epoch:  0.08817137777805328
+Epoch:  121
+The loss of train epoch:  0.08747772872447968
+Epoch:  122
+The loss of train epoch:  0.08679771423339844
+Epoch:  123
+The loss of train epoch:  0.08612927794456482
+Epoch:  124
+The loss of train epoch:  0.08549216389656067
+Epoch:  125
+The loss of train epoch:  0.0848594456911087
+Epoch:  126
+The loss of train epoch:  0.08425265550613403
+Epoch:  127
+The loss of train epoch:  0.0836462751030922
+Epoch:  128
+The loss of train epoch:  0.08305738121271133
+Epoch:  129
+The loss of train epoch:  0.08247891068458557
+Epoch:  130
+The loss of train epoch:  0.0819072425365448
+Epoch:  131
+The loss of train epoch:  0.08133262395858765
+Epoch:  132
+The loss of train epoch:  0.08076443523168564
+Epoch:  133
+The loss of train epoch:  0.08022091537714005
+Epoch:  134
+The loss of train epoch:  0.07969969511032104
+Epoch:  135
+The loss of train epoch:  0.07917626202106476
+Epoch:  136
+The loss of train epoch:  0.07866343855857849
+Epoch:  137
+The loss of train epoch:  0.07815831154584885
+Epoch:  138
+The loss of train epoch:  0.07766756415367126
+Epoch:  139
+The loss of train epoch:  0.07717336714267731
+Epoch:  140
+The loss of train epoch:  0.07669664174318314
+Epoch:  141
+The loss of train epoch:  0.07623141258955002
+Epoch:  142
+The loss of train epoch:  0.0757579654455185
+Epoch:  143
+The loss of train epoch:  0.07530040293931961
+Epoch:  144
+The loss of train epoch:  0.07485060393810272
+Epoch:  145
+The loss of train epoch:  0.0744093582034111
+Epoch:  146
+The loss of train epoch:  0.07397434860467911
+Epoch:  147
+The loss of train epoch:  0.07355794310569763
+Epoch:  148
+The loss of train epoch:  0.0731404572725296
+Epoch:  149
+The loss of train epoch:  0.07272084802389145
+Epoch:  150
+The loss of train epoch:  0.07231834530830383
+Epoch:  151
+The loss of train epoch:  0.07192450761795044
+Epoch:  152
+The loss of train epoch:  0.07153584808111191
+Epoch:  153
+The loss of train epoch:  0.07114160805940628
+Epoch:  154
+The loss of train epoch:  0.07075455784797668
+Epoch:  155
+The loss of train epoch:  0.07037223130464554
+Epoch:  156
+The loss of train epoch:  0.06999678909778595
+Epoch:  157
+The loss of train epoch:  0.06964056938886642
+Epoch:  158
+The loss of train epoch:  0.06929457187652588
+Epoch:  159
+The loss of train epoch:  0.06896083056926727
+Epoch:  160
+The loss of train epoch:  0.0686275064945221
+Epoch:  161
+The loss of train epoch:  0.06829480826854706
+Epoch:  162
+The loss of train epoch:  0.06796092540025711
+Epoch:  163
+The loss of train epoch:  0.06762567907571793
+Epoch:  164
+The loss of train epoch:  0.06728801131248474
+Epoch:  165
+The loss of train epoch:  0.06694479286670685
+Epoch:  166
+The loss of train epoch:  0.06660737842321396
+Epoch:  167
+The loss of train epoch:  0.06627267599105835
+Epoch:  168
+The loss of train epoch:  0.06594444066286087
+Epoch:  169
+The loss of train epoch:  0.06563650071620941
+Epoch:  170
+The loss of train epoch:  0.06534361094236374
+Epoch:  171
+The loss of train epoch:  0.06504427641630173
+Epoch:  172
+The loss of train epoch:  0.06475237011909485
+Epoch:  173
+The loss of train epoch:  0.06445753574371338
+Epoch:  174
+The loss of train epoch:  0.06418180465698242
+Epoch:  175
+The loss of train epoch:  0.06390124559402466
+Epoch:  176
+The loss of train epoch:  0.06362772732973099
+Epoch:  177
+The loss of train epoch:  0.06335563212633133
+Epoch:  178
+The loss of train epoch:  0.06307873874902725
+Epoch:  179
+The loss of train epoch:  0.06280689686536789
+Epoch:  180
+The loss of train epoch:  0.06253914535045624
+Epoch:  181
+The loss of train epoch:  0.06226907670497894
+Epoch:  182
+The loss of train epoch:  0.062000200152397156
+Epoch:  183
+The loss of train epoch:  0.0617372989654541
+Epoch:  184
+The loss of train epoch:  0.061479274183511734
+Epoch:  185
+The loss of train epoch:  0.0612170547246933
+Epoch:  186
+The loss of train epoch:  0.06096721440553665
+Epoch:  187
+The loss of train epoch:  0.06072397530078888
+Epoch:  188
+The loss of train epoch:  0.06048295646905899
+Epoch:  189
+The loss of train epoch:  0.06023634225130081
+Epoch:  190
+The loss of train epoch:  0.059997543692588806
+Epoch:  191
+The loss of train epoch:  0.05976768210530281
+Epoch:  192
+The loss of train epoch:  0.0595414862036705
+Epoch:  193
+The loss of train epoch:  0.059310879558324814
+Epoch:  194
+The loss of train epoch:  0.05908426269888878
+Epoch:  195
+The loss of train epoch:  0.058870796114206314
+Epoch:  196
+The loss of train epoch:  0.05865686759352684
+Epoch:  197
+The loss of train epoch:  0.058451324701309204
+Epoch:  198
+The loss of train epoch:  0.05824600160121918
+Epoch:  199
+The loss of train epoch:  0.05803181603550911
+Epoch:  200
+The loss of train epoch:  0.05781887471675873
+Epoch:  201
+The loss of train epoch:  0.05760838836431503
+Epoch:  202
+The loss of train epoch:  0.057408127933740616
+Epoch:  203
+The loss of train epoch:  0.057212959975004196
+Epoch:  204
+The loss of train epoch:  0.057016629725694656
+Epoch:  205
+The loss of train epoch:  0.05682406947016716
+Epoch:  206
+The loss of train epoch:  0.05663389340043068
+Epoch:  207
+The loss of train epoch:  0.05644189566373825
+Epoch:  208
+The loss of train epoch:  0.05624515190720558
+Epoch:  209
+The loss of train epoch:  0.056048691272735596
+Epoch:  210
+The loss of train epoch:  0.055857010185718536
+Epoch:  211
+The loss of train epoch:  0.05567750707268715
+Epoch:  212
+The loss of train epoch:  0.055499687790870667
+Epoch:  213
+The loss of train epoch:  0.05532415583729744
+Epoch:  214
+The loss of train epoch:  0.05513906851410866
+Epoch:  215
+The loss of train epoch:  0.054952774196863174
+Epoch:  216
+The loss of train epoch:  0.05477353557944298
+Epoch:  217
+The loss of train epoch:  0.05459948256611824
+Epoch:  218
+The loss of train epoch:  0.05441829562187195
+Epoch:  219
+The loss of train epoch:  0.054246433079242706
+Epoch:  220
+The loss of train epoch:  0.05407274514436722
+Epoch:  221
+The loss of train epoch:  0.053891319781541824
+Epoch:  222
+The loss of train epoch:  0.0537128821015358
+Epoch:  223
+The loss of train epoch:  0.05353729426860809
+Epoch:  224
+The loss of train epoch:  0.053362298756837845
+Epoch:  225
+The loss of train epoch:  0.0531911626458168
+Epoch:  226
+The loss of train epoch:  0.05301591381430626
+Epoch:  227
+The loss of train epoch:  0.052843865007162094
+Epoch:  228
+The loss of train epoch:  0.052679017186164856
+Epoch:  229
+The loss of train epoch:  0.0525188148021698
+Epoch:  230
+The loss of train epoch:  0.05236079543828964
+Epoch:  231
+The loss of train epoch:  0.052207645028829575
+Epoch:  232
+The loss of train epoch:  0.05206488072872162
+Epoch:  233
+The loss of train epoch:  0.051920272409915924
+Epoch:  234
+The loss of train epoch:  0.0517863854765892
+Epoch:  235
+The loss of train epoch:  0.0516563355922699
+Epoch:  236
+The loss of train epoch:  0.05152635648846626
+Epoch:  237
+The loss of train epoch:  0.051400355994701385
+Epoch:  238
+The loss of train epoch:  0.051260195672512054
+Epoch:  239
+The loss of train epoch:  0.05112495645880699
+Epoch:  240
+The loss of train epoch:  0.05099859833717346
+Epoch:  241
+The loss of train epoch:  0.0508698970079422
+Epoch:  242
+The loss of train epoch:  0.05072706192731857
+Epoch:  243
+The loss of train epoch:  0.05059238523244858
+Epoch:  244
+The loss of train epoch:  0.0504583939909935
+Epoch:  245
+The loss of train epoch:  0.05033198744058609
+Epoch:  246
+The loss of train epoch:  0.05020845681428909
+Epoch:  247
+The loss of train epoch:  0.05007913336157799
+Epoch:  248
+The loss of train epoch:  0.049950435757637024
+Epoch:  249
+The loss of train epoch:  0.04982752725481987
+Epoch:  250
+The loss of train epoch:  0.04970144107937813
+Epoch:  251
+The loss of train epoch:  0.049568355083465576
+Epoch:  252
+The loss of train epoch:  0.04943796992301941
+Epoch:  253
+The loss of train epoch:  0.049317702651023865
+Epoch:  254
+The loss of train epoch:  0.04919303581118584
+Epoch:  255
+The loss of train epoch:  0.04906395822763443
+Epoch:  256
+The loss of train epoch:  0.048941828310489655
+Epoch:  257
+The loss of train epoch:  0.04880933463573456
+Epoch:  258
+The loss of train epoch:  0.048673003911972046
+Epoch:  259
+The loss of train epoch:  0.0485321581363678
+Epoch:  260
+The loss of train epoch:  0.048393335193395615
+Epoch:  261
+The loss of train epoch:  0.04826296865940094
+Epoch:  262
+The loss of train epoch:  0.04813196137547493
+Epoch:  263
+The loss of train epoch:  0.04801260307431221
+Epoch:  264
+The loss of train epoch:  0.047878872603178024
+Epoch:  265
+The loss of train epoch:  0.04775925353169441
+Epoch:  266
+The loss of train epoch:  0.047634903341531754
+Epoch:  267
+The loss of train epoch:  0.0475129596889019
+Epoch:  268
+The loss of train epoch:  0.047392070293426514
+Epoch:  269
+The loss of train epoch:  0.04727350175380707
+Epoch:  270
+The loss of train epoch:  0.04715309292078018
+Epoch:  271
+The loss of train epoch:  0.04703034460544586
+Epoch:  272
+The loss of train epoch:  0.046916671097278595
+Epoch:  273
+The loss of train epoch:  0.046793028712272644
+Epoch:  274
+The loss of train epoch:  0.04667238891124725
+Epoch:  275
+The loss of train epoch:  0.04654546454548836
+Epoch:  276
+The loss of train epoch:  0.04642868414521217
+Epoch:  277
+The loss of train epoch:  0.046306829899549484
+Epoch:  278
+The loss of train epoch:  0.04618865251541138
+Epoch:  279
+The loss of train epoch:  0.046067945659160614
+Epoch:  280
+The loss of train epoch:  0.045951712876558304
+Epoch:  281
+The loss of train epoch:  0.045822955667972565
+Epoch:  282
+The loss of train epoch:  0.04570043459534645
+Epoch:  283
+The loss of train epoch:  0.04558653011918068
+Epoch:  284
+The loss of train epoch:  0.04547719284892082
+Epoch:  285
+The loss of train epoch:  0.045359715819358826
+Epoch:  286
+The loss of train epoch:  0.045227281749248505
+Epoch:  287
+The loss of train epoch:  0.04510442912578583
+Epoch:  288
+The loss of train epoch:  0.04498392716050148
+Epoch:  289
+The loss of train epoch:  0.04486728087067604
+Epoch:  290
+The loss of train epoch:  0.044752784073352814
+Epoch:  291
+The loss of train epoch:  0.0446329303085804
+Epoch:  292
+The loss of train epoch:  0.044518232345581055
+Epoch:  293
+The loss of train epoch:  0.04440188780426979
+Epoch:  294
+The loss of train epoch:  0.04427932947874069
+Epoch:  295
+The loss of train epoch:  0.04415430128574371
+Epoch:  296
+The loss of train epoch:  0.04403870552778244
+Epoch:  297
+The loss of train epoch:  0.043923381716012955
+Epoch:  298
+The loss of train epoch:  0.043808817863464355
+Epoch:  299
+The loss of train epoch:  0.04368792846798897
+Epoch:  300
+The loss of train epoch:  0.043562039732933044
+Epoch:  301
+The loss of train epoch:  0.04344276338815689
+Epoch:  302
+The loss of train epoch:  0.043322790414094925
+Epoch:  303
+The loss of train epoch:  0.0432075597345829
+Epoch:  304
+The loss of train epoch:  0.04310191050171852
+Epoch:  305
+The loss of train epoch:  0.04298799857497215
+Epoch:  306
+The loss of train epoch:  0.04287335276603699
+Epoch:  307
+The loss of train epoch:  0.04276077449321747
+Epoch:  308
+The loss of train epoch:  0.04264967888593674
+Epoch:  309
+The loss of train epoch:  0.042539313435554504
+Epoch:  310
+The loss of train epoch:  0.04243391379714012
+Epoch:  311
+The loss of train epoch:  0.04232211783528328
+Epoch:  312
+The loss of train epoch:  0.04222051799297333
+Epoch:  313
+The loss of train epoch:  0.04211688041687012
+Epoch:  314
+The loss of train epoch:  0.042011771351099014
+Epoch:  315
+The loss of train epoch:  0.04190564528107643
+Epoch:  316
+The loss of train epoch:  0.041803330183029175
+Epoch:  317
+The loss of train epoch:  0.04170960932970047
+Epoch:  318
+The loss of train epoch:  0.0416022464632988
+Epoch:  319
+The loss of train epoch:  0.041495196521282196
+Epoch:  320
+The loss of train epoch:  0.041396401822566986
+Epoch:  321
+The loss of train epoch:  0.04129129275679588
+Epoch:  322
+The loss of train epoch:  0.041192904114723206
+Epoch:  323
+The loss of train epoch:  0.041094593703746796
+Epoch:  324
+The loss of train epoch:  0.040999848395586014
+Epoch:  325
+The loss of train epoch:  0.04090864583849907
+Epoch:  326
+The loss of train epoch:  0.04081546515226364
+Epoch:  327
+The loss of train epoch:  0.04072362929582596
+Epoch:  328
+The loss of train epoch:  0.04062870889902115
+Epoch:  329
+The loss of train epoch:  0.04052934795618057
+Epoch:  330
+The loss of train epoch:  0.04043055325746536
+Epoch:  331
+The loss of train epoch:  0.04034139961004257
+Epoch:  332
+The loss of train epoch:  0.040241632610559464
+Epoch:  333
+The loss of train epoch:  0.040144871920347214
+Epoch:  334
+The loss of train epoch:  0.040048424154520035
+Epoch:  335
+The loss of train epoch:  0.039954353123903275
+Epoch:  336
+The loss of train epoch:  0.039856646209955215
+Epoch:  337
+The loss of train epoch:  0.03976237401366234
+Epoch:  338
+The loss of train epoch:  0.039671845734119415
+Epoch:  339
+The loss of train epoch:  0.03957294672727585
+Epoch:  340
+The loss of train epoch:  0.039479050785303116
+Epoch:  341
+The loss of train epoch:  0.039377182722091675
+Epoch:  342
+The loss of train epoch:  0.03927299380302429
+Epoch:  343
+The loss of train epoch:  0.03917315602302551
+Epoch:  344
+The loss of train epoch:  0.039080578833818436
+Epoch:  345
+The loss of train epoch:  0.03898436576128006
+Epoch:  346
+The loss of train epoch:  0.03888874500989914
+Epoch:  347
+The loss of train epoch:  0.03879943862557411
+Epoch:  348
+The loss of train epoch:  0.03870858997106552
+Epoch:  349
+The loss of train epoch:  0.03861486539244652
+Epoch:  350
+The loss of train epoch:  0.03852677717804909
+Epoch:  351
+The loss of train epoch:  0.038441143929958344
+Epoch:  352
+The loss of train epoch:  0.03835853189229965
+Epoch:  353
+The loss of train epoch:  0.03827381506562233
+Epoch:  354
+The loss of train epoch:  0.03818570822477341
+Epoch:  355
+The loss of train epoch:  0.03809983655810356
+Epoch:  356
+The loss of train epoch:  0.03801120072603226
+Epoch:  357
+The loss of train epoch:  0.03792738541960716
+Epoch:  358
+The loss of train epoch:  0.0378449521958828
+Epoch:  359
+The loss of train epoch:  0.03775894641876221
+Epoch:  360
+The loss of train epoch:  0.0376676581799984
+Epoch:  361
+The loss of train epoch:  0.03757525607943535
+Epoch:  362
+The loss of train epoch:  0.037479378283023834
+Epoch:  363
+The loss of train epoch:  0.037392131984233856
+Epoch:  364
+The loss of train epoch:  0.03729735314846039
+Epoch:  365
+The loss of train epoch:  0.03720475733280182
+Epoch:  366
+The loss of train epoch:  0.03710799291729927
+Epoch:  367
+The loss of train epoch:  0.03701206296682358
+Epoch:  368
+The loss of train epoch:  0.036915123462677
+Epoch:  369
+The loss of train epoch:  0.03681683540344238
+Epoch:  370
+The loss of train epoch:  0.0367233045399189
+Epoch:  371
+The loss of train epoch:  0.036634769290685654
+Epoch:  372
+The loss of train epoch:  0.036544572561979294
+Epoch:  373
+The loss of train epoch:  0.03646022081375122
+Epoch:  374
+The loss of train epoch:  0.03636971116065979
+Epoch:  375
+The loss of train epoch:  0.03627931699156761
+Epoch:  376
+The loss of train epoch:  0.0361952967941761
+Epoch:  377
+The loss of train epoch:  0.03610822558403015
+Epoch:  378
+The loss of train epoch:  0.03601789101958275
+Epoch:  379
+The loss of train epoch:  0.03592853993177414
+Epoch:  380
+The loss of train epoch:  0.035839054733514786
+Epoch:  381
+The loss of train epoch:  0.0357544869184494
+Epoch:  382
+The loss of train epoch:  0.03565766289830208
+Epoch:  383
+The loss of train epoch:  0.035574667155742645
+Epoch:  384
+The loss of train epoch:  0.03548605740070343
+Epoch:  385
+The loss of train epoch:  0.0353974811732769
+Epoch:  386
+The loss of train epoch:  0.03531520813703537
+Epoch:  387
+The loss of train epoch:  0.035222917795181274
+Epoch:  388
+The loss of train epoch:  0.035142142325639725
+Epoch:  389
+The loss of train epoch:  0.03505830839276314
+Epoch:  390
+The loss of train epoch:  0.03497352823615074
+Epoch:  391
+The loss of train epoch:  0.03488911688327789
+Epoch:  392
+The loss of train epoch:  0.03481326997280121
+Epoch:  393
+The loss of train epoch:  0.034743573516607285
+Epoch:  394
+The loss of train epoch:  0.034669429063797
+Epoch:  395
+The loss of train epoch:  0.034595612436532974
+Epoch:  396
+The loss of train epoch:  0.034524381160736084
+Epoch:  397
+The loss of train epoch:  0.034454345703125
+Epoch:  398
+The loss of train epoch:  0.03438551723957062
+Epoch:  399
+The loss of train epoch:  0.0343056321144104
+Epoch:  400
+The loss of train epoch:  0.03423105925321579
+Epoch:  401
+The loss of train epoch:  0.03415464982390404
+Epoch:  402
+The loss of train epoch:  0.034090761095285416
+Epoch:  403
+The loss of train epoch:  0.03401434049010277
+Epoch:  404
+The loss of train epoch:  0.03393973782658577
+Epoch:  405
+The loss of train epoch:  0.033867135643959045
+Epoch:  406
+The loss of train epoch:  0.03379735350608826
+Epoch:  407
+The loss of train epoch:  0.033722005784511566
+Epoch:  408
+The loss of train epoch:  0.03364257514476776
+Epoch:  409
+The loss of train epoch:  0.03357147052884102
+Epoch:  410
+The loss of train epoch:  0.03350451588630676
+Epoch:  411
+The loss of train epoch:  0.03343508392572403
+Epoch:  412
+The loss of train epoch:  0.033376578241586685
+Epoch:  413
+The loss of train epoch:  0.03331276774406433
+Epoch:  414
+The loss of train epoch:  0.03324923664331436
+Epoch:  415
+The loss of train epoch:  0.03318297117948532
+Epoch:  416
+The loss of train epoch:  0.033119551837444305
+Epoch:  417
+The loss of train epoch:  0.033060792833566666
+Epoch:  418
+The loss of train epoch:  0.03299613296985626
+Epoch:  419
+The loss of train epoch:  0.03293708339333534
+Epoch:  420
+The loss of train epoch:  0.03286917135119438
+Epoch:  421
+The loss of train epoch:  0.03281567245721817
+Epoch:  422
+The loss of train epoch:  0.03275827318429947
+Epoch:  423
+The loss of train epoch:  0.03269466385245323
+Epoch:  424
+The loss of train epoch:  0.03263409435749054
+Epoch:  425
+The loss of train epoch:  0.03257905691862106
+Epoch:  426
+The loss of train epoch:  0.0325249582529068
+Epoch:  427
+The loss of train epoch:  0.032469894737005234
+Epoch:  428
+The loss of train epoch:  0.03242407366633415
+Epoch:  429
+The loss of train epoch:  0.0323726162314415
+Epoch:  430
+The loss of train epoch:  0.03232713043689728
+Epoch:  431
+The loss of train epoch:  0.03227356821298599
+Epoch:  432
+The loss of train epoch:  0.03222601115703583
+Epoch:  433
+The loss of train epoch:  0.03217530995607376
+Epoch:  434
+The loss of train epoch:  0.032127220183610916
+Epoch:  435
+The loss of train epoch:  0.03208254650235176
+Epoch:  436
+The loss of train epoch:  0.03203216567635536
+Epoch:  437
+The loss of train epoch:  0.031986165791749954
+Epoch:  438
+The loss of train epoch:  0.031941335648298264
+Epoch:  439
+The loss of train epoch:  0.03189585730433464
+Epoch:  440
+The loss of train epoch:  0.03185318782925606
+Epoch:  441
+The loss of train epoch:  0.03180735930800438
+Epoch:  442
+The loss of train epoch:  0.03176312893629074
+Epoch:  443
+The loss of train epoch:  0.031715571880340576
+Epoch:  444
+The loss of train epoch:  0.03166696056723595
+Epoch:  445
+The loss of train epoch:  0.031617242842912674
+Epoch:  446
+The loss of train epoch:  0.03156541287899017
+Epoch:  447
+The loss of train epoch:  0.03151886910200119
+Epoch:  448
+The loss of train epoch:  0.031468234956264496
+Epoch:  449
+The loss of train epoch:  0.03142514079809189
+Epoch:  450
+The loss of train epoch:  0.03137655183672905
+Epoch:  451
+The loss of train epoch:  0.03133002668619156
+Epoch:  452
+The loss of train epoch:  0.03128894418478012
+Epoch:  453
+The loss of train epoch:  0.0312461219727993
+Epoch:  454
+The loss of train epoch:  0.031195569783449173
+Epoch:  455
+The loss of train epoch:  0.031152423471212387
+Epoch:  456
+The loss of train epoch:  0.031110284850001335
+Epoch:  457
+The loss of train epoch:  0.03106863424181938
+Epoch:  458
+The loss of train epoch:  0.03102358803153038
+Epoch:  459
+The loss of train epoch:  0.030985672026872635
+Epoch:  460
+The loss of train epoch:  0.030942795798182487
+Epoch:  461
+The loss of train epoch:  0.03089885041117668
+Epoch:  462
+The loss of train epoch:  0.030851850286126137
+Epoch:  463
+The loss of train epoch:  0.030811354517936707
+Epoch:  464
+The loss of train epoch:  0.030773678794503212
+Epoch:  465
+The loss of train epoch:  0.030733920633792877
+Epoch:  466
+The loss of train epoch:  0.03069175034761429
+Epoch:  467
+The loss of train epoch:  0.03064870461821556
+Epoch:  468
+The loss of train epoch:  0.030615897849202156
+Epoch:  469
+The loss of train epoch:  0.030575038865208626
+Epoch:  470
+The loss of train epoch:  0.030542705208063126
+Epoch:  471
+The loss of train epoch:  0.030509183183312416
+Epoch:  472
+The loss of train epoch:  0.030469510704278946
+Epoch:  473
+The loss of train epoch:  0.030435824766755104
+Epoch:  474
+The loss of train epoch:  0.030399108305573463
+Epoch:  475
+The loss of train epoch:  0.030358463525772095
+Epoch:  476
+The loss of train epoch:  0.030318716540932655
+Epoch:  477
+The loss of train epoch:  0.030283521860837936
+Epoch:  478
+The loss of train epoch:  0.030241824686527252
+Epoch:  479
+The loss of train epoch:  0.03020867519080639
+Epoch:  480
+The loss of train epoch:  0.030170977115631104
+Epoch:  481
+The loss of train epoch:  0.03013928048312664
+Epoch:  482
+The loss of train epoch:  0.03009786270558834
+Epoch:  483
+The loss of train epoch:  0.030071724206209183
+Epoch:  484
+The loss of train epoch:  0.030037662014365196
+Epoch:  485
+The loss of train epoch:  0.030007196590304375
+Epoch:  486
+The loss of train epoch:  0.029968461021780968
+Epoch:  487
+The loss of train epoch:  0.02994370274245739
+Epoch:  488
+The loss of train epoch:  0.02991136536002159
+Epoch:  489
+The loss of train epoch:  0.02988368645310402
+Epoch:  490
+The loss of train epoch:  0.02985336445271969
+Epoch:  491
+The loss of train epoch:  0.029823850840330124
+Epoch:  492
+The loss of train epoch:  0.029786016792058945
+Epoch:  493
+The loss of train epoch:  0.02975783497095108
+Epoch:  494
+The loss of train epoch:  0.02972184494137764
+Epoch:  495
+The loss of train epoch:  0.029690071940422058
+Epoch:  496
+The loss of train epoch:  0.029657669365406036
+Epoch:  497
+The loss of train epoch:  0.02962145023047924
+Epoch:  498
+The loss of train epoch:  0.029592975974082947
+Epoch:  499
+The loss of train epoch:  0.029553929343819618
+Epoch:  500
+The loss of train epoch:  0.02952461689710617
+Epoch:  501
+The loss of train epoch:  0.029491549357771873
+Epoch:  502
+The loss of train epoch:  0.02945052646100521
+Epoch:  503
+The loss of train epoch:  0.029423139989376068
+Epoch:  504
+The loss of train epoch:  0.02938414178788662
+Epoch:  505
+The loss of train epoch:  0.02935522049665451
+Epoch:  506
+The loss of train epoch:  0.029320966452360153
+Epoch:  507
+The loss of train epoch:  0.02928689680993557
+Epoch:  508
+The loss of train epoch:  0.029247930273413658
+Epoch:  509
+The loss of train epoch:  0.02921469882130623
+Epoch:  510
+The loss of train epoch:  0.029177812859416008
+Epoch:  511
+The loss of train epoch:  0.02914193645119667
+Epoch:  512
+The loss of train epoch:  0.02911027893424034
+Epoch:  513
+The loss of train epoch:  0.02907528355717659
+Epoch:  514
+The loss of train epoch:  0.029036754742264748
+Epoch:  515
+The loss of train epoch:  0.029002873227000237
+Epoch:  516
+The loss of train epoch:  0.028970321640372276
+Epoch:  517
+The loss of train epoch:  0.028930788859725
+Epoch:  518
+The loss of train epoch:  0.028895683586597443
+Epoch:  519
+The loss of train epoch:  0.028863098472356796
+Epoch:  520
+The loss of train epoch:  0.028824007138609886
+Epoch:  521
+The loss of train epoch:  0.028786616399884224
+Epoch:  522
+The loss of train epoch:  0.028751416131854057
+Epoch:  523
+The loss of train epoch:  0.028719695284962654
+Epoch:  524
+The loss of train epoch:  0.028685668483376503
+Epoch:  525
+The loss of train epoch:  0.028650596737861633
+Epoch:  526
+The loss of train epoch:  0.02861294336616993
+Epoch:  527
+The loss of train epoch:  0.02857394888997078
+Epoch:  528
+The loss of train epoch:  0.028542960062623024
+Epoch:  529
+The loss of train epoch:  0.02849794365465641
+Epoch:  530
+The loss of train epoch:  0.02846393920481205
+Epoch:  531
+The loss of train epoch:  0.0284226406365633
+Epoch:  532
+The loss of train epoch:  0.028386453166604042
+Epoch:  533
+The loss of train epoch:  0.02835051342844963
+Epoch:  534
+The loss of train epoch:  0.028317291289567947
+Epoch:  535
+The loss of train epoch:  0.028277341276407242
+Epoch:  536
+The loss of train epoch:  0.02823186293244362
+Epoch:  537
+The loss of train epoch:  0.02820027433335781
+Epoch:  538
+The loss of train epoch:  0.028158482164144516
+Epoch:  539
+The loss of train epoch:  0.028123565018177032
+Epoch:  540
+The loss of train epoch:  0.02807891182601452
+Epoch:  541
+The loss of train epoch:  0.028054099529981613
+Epoch:  542
+The loss of train epoch:  0.02801648899912834
+Epoch:  543
+The loss of train epoch:  0.02797665260732174
+Epoch:  544
+The loss of train epoch:  0.027948137372732162
+Epoch:  545
+The loss of train epoch:  0.027918003499507904
+Epoch:  546
+The loss of train epoch:  0.027883777394890785
+Epoch:  547
+The loss of train epoch:  0.027852892875671387
+Epoch:  548
+The loss of train epoch:  0.02782330848276615
+Epoch:  549
+The loss of train epoch:  0.027783965691924095
+Epoch:  550
+The loss of train epoch:  0.02775958925485611
+Epoch:  551
+The loss of train epoch:  0.027723373845219612
+Epoch:  552
+The loss of train epoch:  0.027695517987012863
+Epoch:  553
+The loss of train epoch:  0.02766764536499977
+Epoch:  554
+The loss of train epoch:  0.0276394821703434
+Epoch:  555
+The loss of train epoch:  0.027606535702943802
+Epoch:  556
+The loss of train epoch:  0.02758289873600006
+Epoch:  557
+The loss of train epoch:  0.027552897110581398
+Epoch:  558
+The loss of train epoch:  0.027523955330252647
+Epoch:  559
+The loss of train epoch:  0.027494041249155998
+Epoch:  560
+The loss of train epoch:  0.027464520186185837
+Epoch:  561
+The loss of train epoch:  0.027434760704636574
+Epoch:  562
+The loss of train epoch:  0.027401888743042946
+Epoch:  563
+The loss of train epoch:  0.027370302006602287
+Epoch:  564
+The loss of train epoch:  0.027344584465026855
+Epoch:  565
+The loss of train epoch:  0.027315977960824966
+Epoch:  566
+The loss of train epoch:  0.027293244376778603
+Epoch:  567
+The loss of train epoch:  0.02726028300821781
+Epoch:  568
+The loss of train epoch:  0.027228567749261856
+Epoch:  569
+The loss of train epoch:  0.027195757254958153
+Epoch:  570
+The loss of train epoch:  0.027162788435816765
+Epoch:  571
+The loss of train epoch:  0.027125757187604904
+Epoch:  572
+The loss of train epoch:  0.027088424190878868
+Epoch:  573
+The loss of train epoch:  0.027057500556111336
+Epoch:  574
+The loss of train epoch:  0.027022486552596092
+Epoch:  575
+The loss of train epoch:  0.02699515037238598
+Epoch:  576
+The loss of train epoch:  0.02695642039179802
+Epoch:  577
+The loss of train epoch:  0.02692624367773533
+Epoch:  578
+The loss of train epoch:  0.026888903230428696
+Epoch:  579
+The loss of train epoch:  0.026857607066631317
+Epoch:  580
+The loss of train epoch:  0.02682293765246868
+Epoch:  581
+The loss of train epoch:  0.02678716741502285
+Epoch:  582
+The loss of train epoch:  0.02675408124923706
+Epoch:  583
+The loss of train epoch:  0.026723848655819893
+Epoch:  584
+The loss of train epoch:  0.02669534645974636
+Epoch:  585
+The loss of train epoch:  0.026667306199669838
+Epoch:  586
+The loss of train epoch:  0.026644878089427948
+Epoch:  587
+The loss of train epoch:  0.026617079973220825
+Epoch:  588
+The loss of train epoch:  0.02658701501786709
+Epoch:  589
+The loss of train epoch:  0.02655656635761261
+Epoch:  590
+The loss of train epoch:  0.02653137594461441
+Epoch:  591
+The loss of train epoch:  0.02650071494281292
+Epoch:  592
+The loss of train epoch:  0.026474162936210632
+Epoch:  593
+The loss of train epoch:  0.026440050452947617
+Epoch:  594
+The loss of train epoch:  0.02641306445002556
+Epoch:  595
+The loss of train epoch:  0.02637735940515995
+Epoch:  596
+The loss of train epoch:  0.026351092383265495
+Epoch:  597
+The loss of train epoch:  0.026317736133933067
+Epoch:  598
+The loss of train epoch:  0.026286806911230087
+Epoch:  599
+The loss of train epoch:  0.02625374309718609
+Epoch:  600
+The loss of train epoch:  0.026220150291919708
+Epoch:  601
+The loss of train epoch:  0.02618521638214588
+Epoch:  602
+The loss of train epoch:  0.0261579230427742
+Epoch:  603
+The loss of train epoch:  0.026122694835066795
+Epoch:  604
+The loss of train epoch:  0.026095444336533546
+Epoch:  605
+The loss of train epoch:  0.02606026828289032
+Epoch:  606
+The loss of train epoch:  0.026030713692307472
+Epoch:  607
+The loss of train epoch:  0.02599271386861801
+Epoch:  608
+The loss of train epoch:  0.02597780153155327
+Epoch:  609
+The loss of train epoch:  0.02594134397804737
+Epoch:  610
+The loss of train epoch:  0.02590803988277912
+Epoch:  611
+The loss of train epoch:  0.02588323876261711
+Epoch:  612
+The loss of train epoch:  0.025848165154457092
+Epoch:  613
+The loss of train epoch:  0.02581348642706871
+Epoch:  614
+The loss of train epoch:  0.025786295533180237
+Epoch:  615
+The loss of train epoch:  0.025750068947672844
+Epoch:  616
+The loss of train epoch:  0.025726154446601868
+Epoch:  617
+The loss of train epoch:  0.02570231817662716
+Epoch:  618
+The loss of train epoch:  0.02566659264266491
+Epoch:  619
+The loss of train epoch:  0.02564585581421852
+Epoch:  620
+The loss of train epoch:  0.025618450716137886
+Epoch:  621
+The loss of train epoch:  0.025588706135749817
+Epoch:  622
+The loss of train epoch:  0.025554371997714043
+Epoch:  623
+The loss of train epoch:  0.025526244193315506
+Epoch:  624
+The loss of train epoch:  0.02549932152032852
+Epoch:  625
+The loss of train epoch:  0.025468245148658752
+Epoch:  626
+The loss of train epoch:  0.02543814107775688
+Epoch:  627
+The loss of train epoch:  0.025406643748283386
+Epoch:  628
+The loss of train epoch:  0.02537957951426506
+Epoch:  629
+The loss of train epoch:  0.02534913271665573
+Epoch:  630
+The loss of train epoch:  0.025321124121546745
+Epoch:  631
+The loss of train epoch:  0.02528703399002552
+Epoch:  632
+The loss of train epoch:  0.025254519656300545
+Epoch:  633
+The loss of train epoch:  0.025229642167687416
+Epoch:  634
+The loss of train epoch:  0.025200316682457924
+Epoch:  635
+The loss of train epoch:  0.025176815688610077
+Epoch:  636
+The loss of train epoch:  0.02514655701816082
+Epoch:  637
+The loss of train epoch:  0.0251271054148674
+Epoch:  638
+The loss of train epoch:  0.025089915841817856
+Epoch:  639
+The loss of train epoch:  0.025065071880817413
+Epoch:  640
+The loss of train epoch:  0.025043094530701637
+Epoch:  641
+The loss of train epoch:  0.025017254054546356
+Epoch:  642
+The loss of train epoch:  0.024989545345306396
+Epoch:  643
+The loss of train epoch:  0.024964625015854836
+Epoch:  644
+The loss of train epoch:  0.024940771982073784
+Epoch:  645
+The loss of train epoch:  0.024916555732488632
+Epoch:  646
+The loss of train epoch:  0.02488848939538002
+Epoch:  647
+The loss of train epoch:  0.024863863363862038
+Epoch:  648
+The loss of train epoch:  0.024843260645866394
+Epoch:  649
+The loss of train epoch:  0.024821525439620018
+Epoch:  650
+The loss of train epoch:  0.02480761893093586
+Epoch:  651
+The loss of train epoch:  0.024768173694610596
+Epoch:  652
+The loss of train epoch:  0.024746233597397804
+Epoch:  653
+The loss of train epoch:  0.024717263877391815
+Epoch:  654
+The loss of train epoch:  0.02469981275498867
+Epoch:  655
+The loss of train epoch:  0.024666056036949158
+Epoch:  656
+The loss of train epoch:  0.024639608338475227
+Epoch:  657
+The loss of train epoch:  0.024617156013846397
+Epoch:  658
+The loss of train epoch:  0.024599766358733177
+Epoch:  659
+The loss of train epoch:  0.02457839995622635
+Epoch:  660
+The loss of train epoch:  0.024545708671212196
+Epoch:  661
+The loss of train epoch:  0.02452482469379902
+Epoch:  662
+The loss of train epoch:  0.024493709206581116
+Epoch:  663
+The loss of train epoch:  0.02446632646024227
+Epoch:  664
+The loss of train epoch:  0.024443626403808594
+Epoch:  665
+The loss of train epoch:  0.024421222507953644
+Epoch:  666
+The loss of train epoch:  0.024395626038312912
+Epoch:  667
+The loss of train epoch:  0.02437158115208149
+Epoch:  668
+The loss of train epoch:  0.024344228208065033
+Epoch:  669
+The loss of train epoch:  0.02431381680071354
+Epoch:  670
+The loss of train epoch:  0.02427937462925911
+Epoch:  671
+The loss of train epoch:  0.024257415905594826
+Epoch:  672
+The loss of train epoch:  0.024217931553721428
+Epoch:  673
+The loss of train epoch:  0.024194905534386635
+Epoch:  674
+The loss of train epoch:  0.024166259914636612
+Epoch:  675
+The loss of train epoch:  0.024137217551469803
+Epoch:  676
+The loss of train epoch:  0.024102678522467613
+Epoch:  677
+The loss of train epoch:  0.024064665660262108
+Epoch:  678
+The loss of train epoch:  0.02403014898300171
+Epoch:  679
+The loss of train epoch:  0.02400418184697628
+Epoch:  680
+The loss of train epoch:  0.02397332340478897
+Epoch:  681
+The loss of train epoch:  0.023937072604894638
+Epoch:  682
+The loss of train epoch:  0.023909851908683777
+Epoch:  683
+The loss of train epoch:  0.023878827691078186
+Epoch:  684
+The loss of train epoch:  0.02385001815855503
+Epoch:  685
+The loss of train epoch:  0.023823555558919907
+Epoch:  686
+The loss of train epoch:  0.023792188614606857
+Epoch:  687
+The loss of train epoch:  0.023763220757246017
+Epoch:  688
+The loss of train epoch:  0.023738903924822807
+Epoch:  689
+The loss of train epoch:  0.023715876042842865
+Epoch:  690
+The loss of train epoch:  0.023678241297602654
+Epoch:  691
+The loss of train epoch:  0.02365298941731453
+Epoch:  692
+The loss of train epoch:  0.02362019754946232
+Epoch:  693
+The loss of train epoch:  0.023601559922099113
+Epoch:  694
+The loss of train epoch:  0.023581204935908318
+Epoch:  695
+The loss of train epoch:  0.02354593388736248
+Epoch:  696
+The loss of train epoch:  0.023520255461335182
+Epoch:  697
+The loss of train epoch:  0.02349330671131611
+Epoch:  698
+The loss of train epoch:  0.023460276424884796
+Epoch:  699
+The loss of train epoch:  0.023429803550243378
+Epoch:  700
+The loss of train epoch:  0.023410027846693993
+Epoch:  701
+The loss of train epoch:  0.023377150297164917
+Epoch:  702
+The loss of train epoch:  0.02335638925433159
+Epoch:  703
+The loss of train epoch:  0.023325374349951744
+Epoch:  704
+The loss of train epoch:  0.023290636017918587
+Epoch:  705
+The loss of train epoch:  0.023266740143299103
+Epoch:  706
+The loss of train epoch:  0.02324005588889122
+Epoch:  707
+The loss of train epoch:  0.023217538371682167
+Epoch:  708
+The loss of train epoch:  0.023181486874818802
+Epoch:  709
+The loss of train epoch:  0.023157818242907524
+Epoch:  710
+The loss of train epoch:  0.023126322776079178
+Epoch:  711
+The loss of train epoch:  0.02309710718691349
+Epoch:  712
+The loss of train epoch:  0.02307429164648056
+Epoch:  713
+The loss of train epoch:  0.02304837852716446
+Epoch:  714
+The loss of train epoch:  0.02301592379808426
+Epoch:  715
+The loss of train epoch:  0.02299056574702263
+Epoch:  716
+The loss of train epoch:  0.022959860041737556
+Epoch:  717
+The loss of train epoch:  0.02293439954519272
+Epoch:  718
+The loss of train epoch:  0.022901693359017372
+Epoch:  719
+The loss of train epoch:  0.022878453135490417
+Epoch:  720
+The loss of train epoch:  0.022845886647701263
+Epoch:  721
+The loss of train epoch:  0.022817088291049004
+Epoch:  722
+The loss of train epoch:  0.022794539108872414
+Epoch:  723
+The loss of train epoch:  0.022766537964344025
+Epoch:  724
+The loss of train epoch:  0.02273101732134819
+Epoch:  725
+The loss of train epoch:  0.022710207849740982
+Epoch:  726
+The loss of train epoch:  0.022678853943943977
+Epoch:  727
+The loss of train epoch:  0.022652560845017433
+Epoch:  728
+The loss of train epoch:  0.022625746205449104
+Epoch:  729
+The loss of train epoch:  0.022603081539273262
+Epoch:  730
+The loss of train epoch:  0.02255849540233612
+Epoch:  731
+The loss of train epoch:  0.02253939025104046
+Epoch:  732
+The loss of train epoch:  0.022514009848237038
+Epoch:  733
+The loss of train epoch:  0.0224809180945158
+Epoch:  734
+The loss of train epoch:  0.022451462224125862
+Epoch:  735
+The loss of train epoch:  0.022422166541218758
+Epoch:  736
+The loss of train epoch:  0.022393666207790375
+Epoch:  737
+The loss of train epoch:  0.022377200424671173
+Epoch:  738
+The loss of train epoch:  0.02234291099011898
+Epoch:  739
+The loss of train epoch:  0.02231871895492077
+Epoch:  740
+The loss of train epoch:  0.022293778136372566
+Epoch:  741
+The loss of train epoch:  0.02226947993040085
+Epoch:  742
+The loss of train epoch:  0.02224658988416195
+Epoch:  743
+The loss of train epoch:  0.02221514657139778
+Epoch:  744
+The loss of train epoch:  0.02218700759112835
+Epoch:  745
+The loss of train epoch:  0.0221755038946867
+Epoch:  746
+The loss of train epoch:  0.02213180810213089
+Epoch:  747
+The loss of train epoch:  0.0221185814589262
+Epoch:  748
+The loss of train epoch:  0.02209336869418621
+Epoch:  749
+The loss of train epoch:  0.022076543420553207
+Epoch:  750
+The loss of train epoch:  0.022047610953450203
+Epoch:  751
+The loss of train epoch:  0.022017626091837883
+Epoch:  752
+The loss of train epoch:  0.021998148411512375
+Epoch:  753
+The loss of train epoch:  0.021972669288516045
+Epoch:  754
+The loss of train epoch:  0.021944453939795494
+Epoch:  755
+The loss of train epoch:  0.021921474486589432
+Epoch:  756
+The loss of train epoch:  0.021893350407481194
+Epoch:  757
+The loss of train epoch:  0.021872863173484802
+Epoch:  758
+The loss of train epoch:  0.02184296026825905
+Epoch:  759
+The loss of train epoch:  0.02181774564087391
+Epoch:  760
+The loss of train epoch:  0.02179771661758423
+Epoch:  761
+The loss of train epoch:  0.021768053993582726
+Epoch:  762
+The loss of train epoch:  0.02175193279981613
+Epoch:  763
+The loss of train epoch:  0.02171553112566471
+Epoch:  764
+The loss of train epoch:  0.02169344760477543
+Epoch:  765
+The loss of train epoch:  0.021666496992111206
+Epoch:  766
+The loss of train epoch:  0.021641021594405174
+Epoch:  767
+The loss of train epoch:  0.02161364257335663
+Epoch:  768
+The loss of train epoch:  0.02159000374376774
+Epoch:  769
+The loss of train epoch:  0.02156217023730278
+Epoch:  770
+The loss of train epoch:  0.021534902974963188
+Epoch:  771
+The loss of train epoch:  0.021509191021323204
+Epoch:  772
+The loss of train epoch:  0.02148859202861786
+Epoch:  773
+The loss of train epoch:  0.021463487297296524
+Epoch:  774
+The loss of train epoch:  0.021443920210003853
+Epoch:  775
+The loss of train epoch:  0.021421421319246292
+Epoch:  776
+The loss of train epoch:  0.02139965631067753
+Epoch:  777
+The loss of train epoch:  0.02137712948024273
+Epoch:  778
+The loss of train epoch:  0.021359829232096672
+Epoch:  779
+The loss of train epoch:  0.021342972293496132
+Epoch:  780
+The loss of train epoch:  0.021318672224879265
+Epoch:  781
+The loss of train epoch:  0.02129233442246914
+Epoch:  782
+The loss of train epoch:  0.02127009443938732
+Epoch:  783
+The loss of train epoch:  0.02124638482928276
+Epoch:  784
+The loss of train epoch:  0.021226026117801666
+Epoch:  785
+The loss of train epoch:  0.02120431885123253
+Epoch:  786
+The loss of train epoch:  0.02117028273642063
+Epoch:  787
+The loss of train epoch:  0.021155335009098053
+Epoch:  788
+The loss of train epoch:  0.02112302929162979
+Epoch:  789
+The loss of train epoch:  0.021098267287015915
+Epoch:  790
+The loss of train epoch:  0.021073369309306145
+Epoch:  791
+The loss of train epoch:  0.02104915864765644
+Epoch:  792
+The loss of train epoch:  0.021015873178839684
+Epoch:  793
+The loss of train epoch:  0.020997246727347374
+Epoch:  794
+The loss of train epoch:  0.02096347138285637
+Epoch:  795
+The loss of train epoch:  0.020942669361829758
+Epoch:  796
+The loss of train epoch:  0.020910732448101044
+Epoch:  797
+The loss of train epoch:  0.020892636850476265
+Epoch:  798
+The loss of train epoch:  0.020862234756350517
+Epoch:  799
+The loss of train epoch:  0.020842060446739197
+Epoch:  800
+The loss of train epoch:  0.020824428647756577
+Epoch:  801
+The loss of train epoch:  0.020787376910448074
+Epoch:  802
+The loss of train epoch:  0.02076888270676136
+Epoch:  803
+The loss of train epoch:  0.020746907219290733
+Epoch:  804
+The loss of train epoch:  0.020710961893200874
+Epoch:  805
+The loss of train epoch:  0.020699240267276764
+Epoch:  806
+The loss of train epoch:  0.020666522905230522
+Epoch:  807
+The loss of train epoch:  0.020638184621930122
+Epoch:  808
+The loss of train epoch:  0.020625149831175804
+Epoch:  809
+The loss of train epoch:  0.020585160702466965
+Epoch:  810
+The loss of train epoch:  0.020565547049045563
+Epoch:  811
+The loss of train epoch:  0.020540308207273483
+Epoch:  812
+The loss of train epoch:  0.02051430009305477
+Epoch:  813
+The loss of train epoch:  0.020495029166340828
+Epoch:  814
+The loss of train epoch:  0.02046918496489525
+Epoch:  815
+The loss of train epoch:  0.020434297621250153
+Epoch:  816
+The loss of train epoch:  0.020419364795088768
+Epoch:  817
+The loss of train epoch:  0.020389175042510033
+Epoch:  818
+The loss of train epoch:  0.020371099933981895
+Epoch:  819
+The loss of train epoch:  0.02034963108599186
+Epoch:  820
+The loss of train epoch:  0.020320702344179153
+Epoch:  821
+The loss of train epoch:  0.020301517099142075
+Epoch:  822
+The loss of train epoch:  0.02027948573231697
+Epoch:  823
+The loss of train epoch:  0.02024800144135952
+Epoch:  824
+The loss of train epoch:  0.02022673934698105
+Epoch:  825
+The loss of train epoch:  0.02019864320755005
+Epoch:  826
+The loss of train epoch:  0.020175497978925705
+Epoch:  827
+The loss of train epoch:  0.02015158347785473
+Epoch:  828
+The loss of train epoch:  0.020125754177570343
+Epoch:  829
+The loss of train epoch:  0.020099934190511703
+Epoch:  830
+The loss of train epoch:  0.020070664584636688
+Epoch:  831
+The loss of train epoch:  0.02004244737327099
+Epoch:  832
+The loss of train epoch:  0.02002996951341629
+Epoch:  833
+The loss of train epoch:  0.020006239414215088
+Epoch:  834
+The loss of train epoch:  0.01998557150363922
+Epoch:  835
+The loss of train epoch:  0.019962435588240623
+Epoch:  836
+The loss of train epoch:  0.019935941323637962
+Epoch:  837
+The loss of train epoch:  0.019914329051971436
+Epoch:  838
+The loss of train epoch:  0.01988605596125126
+Epoch:  839
+The loss of train epoch:  0.01986498199403286
+Epoch:  840
+The loss of train epoch:  0.019844485446810722
+Epoch:  841
+The loss of train epoch:  0.019816618412733078
+Epoch:  842
+The loss of train epoch:  0.019791247323155403
+Epoch:  843
+The loss of train epoch:  0.019764086231589317
+Epoch:  844
+The loss of train epoch:  0.01974525675177574
+Epoch:  845
+The loss of train epoch:  0.019724756479263306
+Epoch:  846
+The loss of train epoch:  0.019704919308423996
+Epoch:  847
+The loss of train epoch:  0.019681395962834358
+Epoch:  848
+The loss of train epoch:  0.019659876823425293
+Epoch:  849
+The loss of train epoch:  0.019645314663648605
+Epoch:  850
+The loss of train epoch:  0.019608069211244583
+Epoch:  851
+The loss of train epoch:  0.019596515223383904
+Epoch:  852
+The loss of train epoch:  0.01957462728023529
+Epoch:  853
+The loss of train epoch:  0.0195538941770792
+Epoch:  854
+The loss of train epoch:  0.01952388882637024
+Epoch:  855
+The loss of train epoch:  0.019508367404341698
+Epoch:  856
+The loss of train epoch:  0.01948891207575798
+Epoch:  857
+The loss of train epoch:  0.019464798271656036
+Epoch:  858
+The loss of train epoch:  0.01943654753267765
+Epoch:  859
+The loss of train epoch:  0.019414298236370087
+Epoch:  860
+The loss of train epoch:  0.01939331740140915
+Epoch:  861
+The loss of train epoch:  0.01936507225036621
+Epoch:  862
+The loss of train epoch:  0.019341520965099335
+Epoch:  863
+The loss of train epoch:  0.019313892349600792
+Epoch:  864
+The loss of train epoch:  0.019298741593956947
+Epoch:  865
+The loss of train epoch:  0.019267091527581215
+Epoch:  866
+The loss of train epoch:  0.019254351034760475
+Epoch:  867
+The loss of train epoch:  0.01922747492790222
+Epoch:  868
+The loss of train epoch:  0.019205404445528984
+Epoch:  869
+The loss of train epoch:  0.019174128770828247
+Epoch:  870
+The loss of train epoch:  0.019156578928232193
+Epoch:  871
+The loss of train epoch:  0.019137823954224586
+Epoch:  872
+The loss of train epoch:  0.019104979932308197
+Epoch:  873
+The loss of train epoch:  0.01908235438168049
+Epoch:  874
+The loss of train epoch:  0.01905994489789009
+Epoch:  875
+The loss of train epoch:  0.0190401840955019
+Epoch:  876
+The loss of train epoch:  0.019005434587597847
+Epoch:  877
+The loss of train epoch:  0.01898418553173542
+Epoch:  878
+The loss of train epoch:  0.01895718276500702
+Epoch:  879
+The loss of train epoch:  0.018934037536382675
+Epoch:  880
+The loss of train epoch:  0.018923554569482803
+Epoch:  881
+The loss of train epoch:  0.018886389210820198
+Epoch:  882
+The loss of train epoch:  0.01887505128979683
+Epoch:  883
+The loss of train epoch:  0.018840624019503593
+Epoch:  884
+The loss of train epoch:  0.018821803852915764
+Epoch:  885
+The loss of train epoch:  0.018799174576997757
+Epoch:  886
+The loss of train epoch:  0.018780844286084175
+Epoch:  887
+The loss of train epoch:  0.01875690370798111
+Epoch:  888
+The loss of train epoch:  0.018731186166405678
+Epoch:  889
+The loss of train epoch:  0.018701108172535896
+Epoch:  890
+The loss of train epoch:  0.018687229603528976
+Epoch:  891
+The loss of train epoch:  0.018663281574845314
+Epoch:  892
+The loss of train epoch:  0.01863580383360386
+Epoch:  893
+The loss of train epoch:  0.018622420728206635
+Epoch:  894
+The loss of train epoch:  0.01858726516366005
+Epoch:  895
+The loss of train epoch:  0.01857834681868553
+Epoch:  896
+The loss of train epoch:  0.018547946587204933
+Epoch:  897
+The loss of train epoch:  0.018524548038840294
+Epoch:  898
+The loss of train epoch:  0.01850881800055504
+Epoch:  899
+The loss of train epoch:  0.018483057618141174
+Epoch:  900
+The loss of train epoch:  0.01845732145011425
+Epoch:  901
+The loss of train epoch:  0.018432293087244034
+Epoch:  902
+The loss of train epoch:  0.018418731167912483
+Epoch:  903
+The loss of train epoch:  0.0183881763368845
+Epoch:  904
+The loss of train epoch:  0.018364079296588898
+Epoch:  905
+The loss of train epoch:  0.018349504098296165
+Epoch:  906
+The loss of train epoch:  0.01831696182489395
+Epoch:  907
+The loss of train epoch:  0.018304893746972084
+Epoch:  908
+The loss of train epoch:  0.01827743463218212
+Epoch:  909
+The loss of train epoch:  0.018250368535518646
+Epoch:  910
+The loss of train epoch:  0.018225349485874176
+Epoch:  911
+The loss of train epoch:  0.018208470195531845
+Epoch:  912
+The loss of train epoch:  0.01817856915295124
+Epoch:  913
+The loss of train epoch:  0.018154466524720192
+Epoch:  914
+The loss of train epoch:  0.01813182607293129
+Epoch:  915
+The loss of train epoch:  0.018114818260073662
+Epoch:  916
+The loss of train epoch:  0.018093639984726906
+Epoch:  917
+The loss of train epoch:  0.01806613616645336
+Epoch:  918
+The loss of train epoch:  0.018052896484732628
+Epoch:  919
+The loss of train epoch:  0.01802922412753105
+Epoch:  920
+The loss of train epoch:  0.01801212504506111
+Epoch:  921
+The loss of train epoch:  0.01799103617668152
+Epoch:  922
+The loss of train epoch:  0.017967194318771362
+Epoch:  923
+The loss of train epoch:  0.017948033288121223
+Epoch:  924
+The loss of train epoch:  0.017923351377248764
+Epoch:  925
+The loss of train epoch:  0.017911279574036598
+Epoch:  926
+The loss of train epoch:  0.017879072576761246
+Epoch:  927
+The loss of train epoch:  0.017858844250440598
+Epoch:  928
+The loss of train epoch:  0.01783757656812668
+Epoch:  929
+The loss of train epoch:  0.017814025282859802
+Epoch:  930
+The loss of train epoch:  0.017792940139770508
+Epoch:  931
+The loss of train epoch:  0.017782846465706825
+Epoch:  932
+The loss of train epoch:  0.01774413511157036
+Epoch:  933
+The loss of train epoch:  0.017725558951497078
+Epoch:  934
+The loss of train epoch:  0.01770719699561596
+Epoch:  935
+The loss of train epoch:  0.017679620534181595
+Epoch:  936
+The loss of train epoch:  0.017663996666669846
+Epoch:  937
+The loss of train epoch:  0.017637379467487335
+Epoch:  938
+The loss of train epoch:  0.01761232130229473
+Epoch:  939
+The loss of train epoch:  0.01759818196296692
+Epoch:  940
+The loss of train epoch:  0.01758275367319584
+Epoch:  941
+The loss of train epoch:  0.017546581104397774
+Epoch:  942
+The loss of train epoch:  0.0175356175750494
+Epoch:  943
+The loss of train epoch:  0.017510050907731056
+Epoch:  944
+The loss of train epoch:  0.01749134622514248
+Epoch:  945
+The loss of train epoch:  0.0174600537866354
+Epoch:  946
+The loss of train epoch:  0.017438717186450958
+Epoch:  947
+The loss of train epoch:  0.017419641837477684
+Epoch:  948
+The loss of train epoch:  0.017400076612830162
+Epoch:  949
+The loss of train epoch:  0.017379263415932655
+Epoch:  950
+The loss of train epoch:  0.017361998558044434
+Epoch:  951
+The loss of train epoch:  0.017334839329123497
+Epoch:  952
+The loss of train epoch:  0.017322545871138573
+Epoch:  953
+The loss of train epoch:  0.01729227602481842
+Epoch:  954
+The loss of train epoch:  0.01728416606783867
+Epoch:  955
+The loss of train epoch:  0.017257381230592728
+Epoch:  956
+The loss of train epoch:  0.017232082784175873
+Epoch:  957
+The loss of train epoch:  0.01722208969295025
+Epoch:  958
+The loss of train epoch:  0.017194336280226707
+Epoch:  959
+The loss of train epoch:  0.01718286983668804
+Epoch:  960
+The loss of train epoch:  0.017149757593870163
+Epoch:  961
+The loss of train epoch:  0.01712927594780922
+Epoch:  962
+The loss of train epoch:  0.01711450330913067
+Epoch:  963
+The loss of train epoch:  0.017099106684327126
+Epoch:  964
+The loss of train epoch:  0.01707589440047741
+Epoch:  965
+The loss of train epoch:  0.017052223905920982
+Epoch:  966
+The loss of train epoch:  0.01702873222529888
+Epoch:  967
+The loss of train epoch:  0.01700972579419613
+Epoch:  968
+The loss of train epoch:  0.01699782721698284
+Epoch:  969
+The loss of train epoch:  0.016968954354524612
+Epoch:  970
+The loss of train epoch:  0.01695355400443077
+Epoch:  971
+The loss of train epoch:  0.0169330183416605
+Epoch:  972
+The loss of train epoch:  0.016908805817365646
+Epoch:  973
+The loss of train epoch:  0.016880758106708527
+Epoch:  974
+The loss of train epoch:  0.016871584579348564
+Epoch:  975
+The loss of train epoch:  0.01684621535241604
+Epoch:  976
+The loss of train epoch:  0.01682383008301258
+Epoch:  977
+The loss of train epoch:  0.016801197081804276
+Epoch:  978
+The loss of train epoch:  0.01678398996591568
+Epoch:  979
+The loss of train epoch:  0.016758499667048454
+Epoch:  980
+The loss of train epoch:  0.016743700951337814
+Epoch:  981
+The loss of train epoch:  0.01671726256608963
+Epoch:  982
+The loss of train epoch:  0.016705753281712532
+Epoch:  983
+The loss of train epoch:  0.016685444861650467
+Epoch:  984
+The loss of train epoch:  0.016658153384923935
+Epoch:  985
+The loss of train epoch:  0.01663629524409771
+Epoch:  986
+The loss of train epoch:  0.016620056703686714
+Epoch:  987
+The loss of train epoch:  0.016594890505075455
+Epoch:  988
+The loss of train epoch:  0.016574319452047348
+Epoch:  989
+The loss of train epoch:  0.016561245545744896
+Epoch:  990
+The loss of train epoch:  0.01654546707868576
+Epoch:  991
+The loss of train epoch:  0.016514282673597336
+Epoch:  992
+The loss of train epoch:  0.016500582918524742
+Epoch:  993
+The loss of train epoch:  0.016476420685648918
+Epoch:  994
+The loss of train epoch:  0.016456082463264465
+Epoch:  995
+The loss of train epoch:  0.01642485521733761
+Epoch:  996
+The loss of train epoch:  0.016413308680057526
+Epoch:  997
+The loss of train epoch:  0.016404539346694946
+Epoch:  998
+The loss of train epoch:  0.016387220472097397
+Epoch:  999
+The loss of train epoch:  0.01635097712278366
+The loss of test:  0.08151828497648239
+The accuracy: 97.51%
